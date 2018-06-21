@@ -20,7 +20,6 @@ import java.util.Map;
 
 public class BaseWebView extends AppCompatActivity implements IBaseWebViewPresenter {
     private WebView mWebView;
-
     private WebSettings webSettings;
 
     @Override
